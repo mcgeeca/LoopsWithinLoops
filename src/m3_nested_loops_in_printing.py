@@ -308,7 +308,6 @@ def triangle_all_numbers_in_each_row(r):
         for k in range(j+1):
             print(k+1, end="")
         print()
-
 # ----------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
 # ----------------------------------------------------------------------
